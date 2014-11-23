@@ -1,2 +1,4 @@
 t2
-add in master
+add  master
+=======
+>>>>>>> dev
